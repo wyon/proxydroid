@@ -46,6 +46,6 @@ Invoke the building like this
 ```
 
 
-##备注：
+## 备注：
 
-![Android全局代理软件ProxyDroid和TransProxy源码分享](http://blog.csdn.net/codezjx/article/details/8872090)
+[Android全局代理软件ProxyDroid和TransProxy源码分享](http://blog.csdn.net/codezjx/article/details/8872090)
